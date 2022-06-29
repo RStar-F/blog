@@ -52,17 +52,17 @@ module.exports = {
         "link": "/timeline/",
         "icon": "reco-date"
       },
-      {
-        "text": "文档",
-        "icon": "reco-message",
-        "link": "/blogs/other/guide",
-        // "items": [
-        //   {
-        //     "text": "vuepress-reco",
-        //     "link": "/docs/theme-reco/"
-        //   }
-        // ]
-      },
+      // {
+      //   "text": "文档",
+      //   "icon": "reco-message",
+      //   "link": "/blogs/other/guide",
+      //   // "items": [
+      //   //   {
+      //   //     "text": "vuepress-reco",
+      //   //     "link": "/docs/theme-reco/"
+      //   //   }
+      //   // ]
+      // },
       {
         "text": "联系",
         "icon": "reco-message",
