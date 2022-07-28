@@ -11,7 +11,7 @@ tagline: 每天进步一点点
 #   background: '#fff',
 #   borderRadius: '1rem',
 # }
-bgImage: https://pan.zealsay.com/zealsay/cover/5.jpg
+bgImage: /1.png
 bgImageStyle: {
   height: '100vh',
   color: '#FFF'
