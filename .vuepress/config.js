@@ -16,7 +16,7 @@ function createRoute (dirName) {
 module.exports = {
   "title": "Btoa",
   "description": "",
-  "base": './',
+  "base": '/blog/',
   "dest": "dist",
   "head": [
     [
