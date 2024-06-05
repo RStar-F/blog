@@ -110,7 +110,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "Btoa",
     "authorAvatar": "/avatar.jpeg",
-    "record": "xxxx",
+    "record": "",
     "startYear": "2017"
   },
   "markdown": {
