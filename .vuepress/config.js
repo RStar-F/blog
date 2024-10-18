@@ -77,7 +77,8 @@ module.exports = {
     ],
     "sidebar": {
       "/blogs/category/": createRoute('../blogs/category/'),
-      "/blogs/tools/": createRoute('../blogs/tools/')
+      "/blogs/tools/": createRoute('../blogs/tools/'),
+      "/blogs/other/": createRoute('../blogs/other/'),
     },
     "type": "blog",
     "blogConfig": {
