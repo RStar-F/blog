@@ -68,6 +68,11 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
+            "text": "github",
+            "link": "https://github.com/frxing",
+            "icon": "reco-github"
+          },
+          {
             "text": "gitee",
             "link": "https://gitee.com/btoa",
             "icon": "reco-github"

@@ -11,7 +11,7 @@ tagline: 每天进步一点点
 #   background: '#fff',
 #   borderRadius: '1rem',
 # }
-bgImage: /1.png
+bgImage: /1.jpg
 bgImageStyle: {
   height: '100vh',
   color: '#FFF'
