@@ -1,3 +1,6 @@
 node_modules/
 yarn.lock
 yarn.error
+.DS_Store
+logs
+*.log
